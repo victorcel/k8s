@@ -12,4 +12,3 @@ spec:
       min:
         memory: 128Mi
         cpu: 100m
-
