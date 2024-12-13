@@ -4,5 +4,3 @@ metadata:
   name: nginx-config
   namespace: nginx1-dev
 
-data:
-
